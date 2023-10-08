@@ -24,6 +24,14 @@
             border-radius: 10px;
             box-shadow: 0 0 20px rgba(0, 255, 65, 0.4);
         }
+        .content2 {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(15, 15, 15, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 255, 65, 0.4);
+        }
         .links a {
             color: #00ff41;
             text-decoration: none;
@@ -34,4 +42,35 @@
             font-size: 0.8em;
             color: #00ff41;
             text-align: center;
+        }
+        footer2 {
+            background-color: #111;
+            color: #00ff41;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .article {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-radius: 10px;
+            background-color: rgba(0, 255, 65, 0.1);
+        }
+        nav {
+            background-color: #222;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #00ff41;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        header2 {
+            background-color: #111;
+            color: #00ff41;
+            text-align: center;
+            padding: 10px;
         }
